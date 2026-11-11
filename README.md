@@ -15,7 +15,7 @@ My first repository
 3. Peter B. Parker
 4. Spider-Ham
 5. Peni Parker
-6. Spider-Man Noir
+6. Spider-Man Noir.
 
 ## Why I Like It
 - Unique comic-book animation style
